@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.pauloroosf.dev" target="_blank">
+  <a href="https://www.pauloroosf.dev" target="_blank" rel="noopener noreferrer">
   <img height="250" src="https://drive.google.com/uc?export=view&id=13a8M3bly1N7agN7NIb9iLnS1L6inBIoi"  />
   </a>
 </div>

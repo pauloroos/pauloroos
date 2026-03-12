@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Eu me chamo Paulo Roos e sou natural de Dourado/MS - Brasil.<br><br>- 🔭 Eu atualmente sou Gerente de Dados na empresa ObraSoft a mais de 03 anos. Tenha uma boa experiencia na construção de dashboards analíticos e interativos focando no problema do cliente e buscando no Business Intelligence uma forma de ajudar a melhorar o desempenho do cliente.<br>- 📚 Formado em Engenharia de Software e cursando um MBA em Data Science e Analytics na USP, atualmente tenho focado muito sobre Análise de Dados e o uso de IA como parceiro nas análises descritivas e tomadas de decisão.<br>- ⚡ No meu tempo livre costumo sempre jogar um pouco, assistir séries e acompanhar esportes (de preferencia o futebol).</p>
+<p align="left">Eu me chamo Paulo Roos e sou natural de Dourado/MS - Brasil.<br><br>- 🔭 Eu atualmente sou Gerente de Dados na empresa ObraSoft a mais de 03 anos. Tenha uma boa experiencia na construção de dashboards analíticos e interativos focando no problema do cliente e buscando no Business Intelligence uma forma de ajudar a melhorar o desempenho do cliente.<br>- 📚 Formado em Engenharia de Software e MBA em Data Science e Analytics na USP, atualmente tenho focado muito sobre Análise de Dados e o uso de IA como parceiro nas análises descritivas e tomadas de decisão.<br>- ⚡ No meu tempo livre costumo sempre jogar um pouco, assistir séries e acompanhar esportes (de preferencia o futebol).</p>
 
 ###
 
